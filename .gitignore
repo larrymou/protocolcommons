@@ -1,0 +1,8 @@
+# Working notes — internal draft, not part of the public record
+init.md
+
+# Local agent tooling state
+.mimocode/
+
+# OS noise
+.DS_Store
